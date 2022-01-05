@@ -7,9 +7,9 @@
     <title>Document</title>
     <link rel="stylesheet" href="css/estilo.css">
 </head>
-<body>
+<body class="parte2">
     <li><a href="CASTANHA.php">Primera parte</a></li>
-
+    <li><a href="TerceraParte.php">Tercera parte</a></li>
     <main>
         <article>
             <h3>Capitulo 4</h3>
@@ -68,6 +68,7 @@
                 </div>
             </div>
         </article>
+        
     </main>
 
 

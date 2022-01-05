@@ -7,10 +7,12 @@
     <title>Capitulos</title>
     <link rel="stylesheet" href="css/estilo.css">
 </head>
-<body>
+<body class="parte1">
     <nav>
         <ul>
             <li><a href="SegundaParte.php">Segunda parte</a></li>
+            <li><a href="TerceraParte.php">Tercera parte</a></li>
+
         </ul>
     </nav>
     <h1>O Xeito Das Froitas</h1>
@@ -70,7 +72,7 @@
                 <img src="img/Froitas_diversas.jpg" alt="" width=500>
             <nav>
                 <ul>
-                    <li><a href="SegundaParte.php">Segunda parte</a></li>
+
                 </ul>
             </nav>
             </div>
