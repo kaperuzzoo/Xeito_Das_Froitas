@@ -32,6 +32,22 @@
                 </div>
             </div>
         </article>
-
+        <article>
+            <h3>Capitulo 8</h3>
+            <h2>Espreitas y batidos</h2>
+            <div>
+                <ul>
+                    <li>A Iris parece rara porque hoy habla como si no hubiera un mañana</li>
+                    <li>El padre trabaja en la mañana y la madre a la mañana y a la tarde</li>
+                    <li>Vieron una pelicula 3D</li>
+                    <li>Narciso non come</li>
+                    <li>Iris fue a dormir apreto a la manzana para no caerse</li>
+                </ul>
+                <div>
+                    <img src="img/melon.jpg" alt="" width=500>
+                </div>
+            </div>
+        </article>
+</main>
 </body>
 </html>
